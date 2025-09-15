@@ -1,0 +1,49 @@
+/* _content/loginSysNet/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-bd8dipycnn] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-bd8dipycnn] {
+  color: #0077cc;
+}
+
+.btn-primary[b-bd8dipycnn] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-bd8dipycnn], .nav-pills .show > .nav-link[b-bd8dipycnn] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-bd8dipycnn] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-bd8dipycnn] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-bd8dipycnn] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-bd8dipycnn] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-bd8dipycnn] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
